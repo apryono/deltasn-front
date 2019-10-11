@@ -42,26 +42,26 @@
   </div>     
 
   <!-- jQuery first, then Tether, then Bootstrap JS. -->
-  <script src="assets/js/jquery-min.js"></script>
-  <script src="assets/js/popper.min.js"></script>
-  <script src="assets/js/bootstrap.min.js"></script>
-  <script src="assets/js/jquery.mixitup.js"></script>
-  <script src="assets/js/nivo-lightbox.js"></script>
-  <script src="assets/js/owl.carousel.js"></script>    
-  <script src="assets/js/jquery.stellar.min.js"></script>    
-  <script src="assets/js/jquery.nav.js"></script>    
-  <script src="assets/js/scrolling-nav.js"></script>    
-  <script src="assets/js/jquery.easing.min.js"></script>    
-  <script src="assets/js/smoothscroll.js"></script>    
-  <script src="assets/js/jquery.slicknav.js"></script>     
-  <script src="assets/js/wow.js"></script>   
-  <script src="assets/js/jquery.vide.js"></script>
-  <script src="assets/js/jquery.counterup.min.js"></script>    
-  <script src="assets/js/jquery.magnific-popup.min.js"></script>    
-  <script src="assets/js/waypoints.min.js"></script>    
-  <script src="assets/js/form-validator.min.js"></script>
-  <script src="assets/js/contact-form-script.js"></script>   
-  <script src="assets/js/main.js"></script>
+  <script src="public/assets/js/jquery-min.js"></script>
+  <script src="public/assets/js/popper.min.js"></script>
+  <script src="public/assets/js/bootstrap.min.js"></script>
+  <script src="public/assets/js/jquery.mixitup.js"></script>
+  <script src="public/assets/js/nivo-lightbox.js"></script>
+  <script src="public/assets/js/owl.carousel.js"></script>    
+  <script src="public/assets/js/jquery.stellar.min.js"></script>    
+  <script src="public/assets/js/jquery.nav.js"></script>    
+  <script src="public/assets/js/scrolling-nav.js"></script>    
+  <script src="public/assets/js/jquery.easing.min.js"></script>    
+  <script src="public/assets/js/smoothscroll.js"></script>    
+  <script src="public/assets/js/jquery.slicknav.js"></script>     
+  <script src="public/assets/js/wow.js"></script>   
+  <script src="public/assets/js/jquery.vide.js"></script>
+  <script src="public/assets/js/jquery.counterup.min.js"></script>    
+  <script src="public/assets/js/jquery.magnific-popup.min.js"></script>    
+  <script src="public/assets/js/waypoints.min.js"></script>    
+  <script src="public/assets/js/form-validator.min.js"></script>
+  <script src="public/assets/js/contact-form-script.js"></script>   
+  <script src="public/assets/js/main.js"></script>
 
 </body>
 </html>

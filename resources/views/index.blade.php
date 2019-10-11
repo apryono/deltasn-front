@@ -14,7 +14,7 @@
             <div class="col-md-4 col-sm-6">
               <div class="item-boxes wow fadeInDown" data-wow-delay="0.2s">
                 <div class="mode">
-                  <img src="assets/img/icon/crm.png" alt=" development" />
+                  <img src="public/assets/img/icon/crm.png" alt=" development" />
                 </div>
                 <h4>CRM</h4>
                 <p>Long-term business change development and optimization services.</p>
@@ -23,7 +23,7 @@
             <div class="col-md-4 col-sm-6">
               <div class="item-boxes wow fadeInDown" data-wow-delay="0.8s">
                 <div class="mode">
-                  <img src="assets/img/icon/soft.png" alt="web development" />
+                  <img src="public/assets/img/icon/soft.png" alt="web development" />
                 </div>
                 <h4>ERP</h4>
                 <p>Take advantage of the best ERP system to facilitate your business activities.</p>
@@ -32,7 +32,7 @@
             <div class="col-md-4 col-sm-6">
               <div class="item-boxes wow fadeInDown" data-wow-delay="1.2s">
                 <div class="mode">
-                  <img src="assets/img/icon/erp.png" alt="bussiness development" />
+                  <img src="public/assets/img/icon/erp.png" alt="bussiness development" />
                 </div>
                 <h4>SCM</h4>
                 <p>Our system is fully integrated, not only between modules, but also between hardware.</p>
@@ -114,7 +114,7 @@
             </div>
             <div class="col-lg-4 col-xs-12">
               <div class="show-box">
-                <img class="img-fulid" src="assets/img/features/soft.png" alt="" width="500px">
+                <img class="img-fulid" src="public/assets/img/features/soft.png" alt="" width="500px">
               </div>
             </div>
           </div>
@@ -156,8 +156,8 @@
               <div class="col-sm-6 col-md-4 col-lg-4 col-xl-4 mix development print">
                 <div class="portfolio-item">
                   <div class="shot-item">
-                    <img src="assets/img/portfolio/img1.jpg" alt="" />  
-                    <a class="overlay lightbox" href="assets/img/portfolio/img1.jpg">
+                    <img src="public/assets/img/portfolio/img1.jpg" alt="" />  
+                    <a class="overlay lightbox" href="public/assets/img/portfolio/img1.jpg">
                       <i class="lnr lnr-eye item-icon"></i>
                     </a>
                   </div>               
@@ -166,8 +166,8 @@
               <div class="col-sm-6 col-md-4 col-lg-4 col-xl-4 mix design print">
                 <div class="portfolio-item">
                   <div class="shot-item">
-                    <img src="assets/img/portfolio/img2.jpg" alt="" />  
-                    <a class="overlay lightbox" href="assets/img/portfolio/img2.jpg">
+                    <img src="public/assets/img/portfolio/img2.jpg" alt="" />  
+                    <a class="overlay lightbox" href="public/assets/img/portfolio/img2.jpg">
                       <i class="lnr lnr-eye item-icon"></i>
                     </a>
                   </div>               
@@ -176,8 +176,8 @@
               <div class="col-sm-6 col-md-4 col-lg-4 col-xl-4 mix development">
                 <div class="portfolio-item">
                   <div class="shot-item">
-                    <img src="assets/img/portfolio/img3.jpg" alt="" />  
-                    <a class="overlay lightbox" href="assets/img/portfolio/img3.jpg">
+                    <img src="public/assets/img/portfolio/img3.jpg" alt="" />  
+                    <a class="overlay lightbox" href="public/assets/img/portfolio/img3.jpg">
                       <i class="lnr lnr-eye item-icon"></i>
                     </a>
                   </div>               
@@ -186,8 +186,8 @@
               <div class="col-sm-6 col-md-4 col-lg-4 col-xl-4 mix development design">
                 <div class="portfolio-item">
                   <div class="shot-item">
-                    <img src="assets/img/portfolio/img4.jpg" alt="" />  
-                    <a class="overlay lightbox" href="assets/img/portfolio/img4.jpg">
+                    <img src="public/assets/img/portfolio/img4.jpg" alt="" />  
+                    <a class="overlay lightbox" href="public/assets/img/portfolio/img4.jpg">
                       <i class="lnr lnr-eye item-icon"></i>
                     </a>
                   </div>               
@@ -196,8 +196,8 @@
               <div class="col-sm-6 col-md-4 col-lg-4 col-xl-4 mix development">
                 <div class="portfolio-item">
                   <div class="shot-item">
-                    <img src="assets/img/portfolio/img5.jpg" alt="" />  
-                    <a class="overlay lightbox" href="assets/img/portfolio/img5.jpg">
+                    <img src="public/assets/img/portfolio/img5.jpg" alt="" />  
+                    <a class="overlay lightbox" href="public/assets/img/portfolio/img5.jpg">
                       <i class="lnr lnr-eye item-icon"></i>
                     </a>
                   </div>               
@@ -206,8 +206,8 @@
               <div class="col-sm-6 col-md-4 col-lg-4 col-xl-4 mix print design">
                 <div class="portfolio-item">
                   <div class="shot-item">
-                    <img src="assets/img/portfolio/img6.jpg" alt="" />  
-                    <a class="overlay lightbox" href="assets/img/portfolio/img6.jpg">
+                    <img src="public/assets/img/portfolio/img6.jpg" alt="" />  
+                    <a class="overlay lightbox" href="public/assets/img/portfolio/img6.jpg">
                       <i class="lnr lnr-eye item-icon"></i>
                     </a>
                   </div>               
@@ -300,7 +300,7 @@
           <div class="row">
             <div class="col-lg-3 col-md-6 col-xs-12">
               <div class="single-team">
-                <img src="assets/img/team/team1.jpg" alt="">
+                <img src="public/assets/img/team/team1.jpg" alt="">
                 <div class="team-details">
                   <div class="team-inner">
                     <h4 class="team-title">Jhon Doe</h4>
@@ -317,7 +317,7 @@
             </div>
             <div class="col-lg-3 col-md-6 col-xs-12">
               <div class="single-team">
-                <img src="assets/img/team/team2.jpg" alt="">
+                <img src="public/assets/img/team/team2.jpg" alt="">
                 <div class="team-details">
                   <div class="team-inner">
                     <h4 class="team-title">Paul Kowalsy</h4>
@@ -334,7 +334,7 @@
             </div>
             <div class="col-lg-3 col-md-6 col-xs-12">
               <div class="single-team">
-                <img src="assets/img/team/team3.jpg" alt="">
+                <img src="public/assets/img/team/team3.jpg" alt="">
                 <div class="team-details">
                   <div class="team-inner">                  
                     <h4 class="team-title">Emilly Williams</h4>
@@ -351,7 +351,7 @@
             </div>
             <div class="col-lg-3 col-md-6 col-xs-12">
               <div class="single-team">
-                <img class="img-fulid" src="assets/img/team/team4.jpg" alt="">
+                <img class="img-fulid" src="public/assets/img/team/team4.jpg" alt="">
                 <div class="team-details">
                   <div class="team-inner">
                     <h4 class="team-title">Patricia Green</h4>
@@ -378,7 +378,7 @@
             <div class="col-md-12">
               <div class="touch-slider owl-carousel owl-theme">
                 <div class="testimonial-item">
-                  <img src="assets/img/testimonial/customer1.jpg" alt="Client Testimonoal" />
+                  <img src="public/assets/img/testimonial/customer1.jpg" alt="Client Testimonoal" />
                   <div class="testimonial-text">
                     <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. send do <br> adipisicing ciusmod tempor incididunt ut labore et</p>
                     <h3>Jone Deam</h3>
@@ -386,7 +386,7 @@
                   </div>
                 </div>
                 <div class="testimonial-item">
-                  <img src="assets/img/testimonial/customer2.jpg" alt="Client Testimonoal" />
+                  <img src="public/assets/img/testimonial/customer2.jpg" alt="Client Testimonoal" />
                   <div class="testimonial-text">
                     <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. send do <br> adipisicing ciusmod tempor incididunt ut labore et</p>
                     <h3>Oidila Matik</h3>
@@ -394,7 +394,7 @@
                   </div>
                 </div>
                 <div class="testimonial-item">
-                  <img src="assets/img/testimonial/customer3.jpg" alt="Client Testimonoal" />
+                  <img src="public/assets/img/testimonial/customer3.jpg" alt="Client Testimonoal" />
                   <div class="testimonial-text">
                     <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. send do <br> adipisicing ciusmod tempor incididunt ut labore et</p>
                     <h3>Alex Dattilo</h3>
@@ -402,7 +402,7 @@
                   </div>
                 </div>
                 <div class="testimonial-item">
-                  <img src="assets/img/testimonial/customer4.jpg" alt="Client Testimonoal" />
+                  <img src="public/assets/img/testimonial/customer4.jpg" alt="Client Testimonoal" />
                   <div class="testimonial-text">
                     <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. send do <br> adipisicing ciusmod tempor incididunt ut labore et</p>
                     <h3>Paul Kowalsy</h3>

@@ -10,17 +10,17 @@
     <title>@yield('title')</title>
 
     <!-- Bootstrap CSS -->
-    <link rel="stylesheet" href="assets/css/bootstrap.min.css">
-    <link rel="stylesheet" href="assets/css/font-awesome.min.css">
-    <link rel="stylesheet" href="assets/css/line-icons.css">
-    <link rel="stylesheet" href="assets/css/owl.carousel.css">
-    <link rel="stylesheet" href="assets/css/owl.theme.css">
-    <link rel="stylesheet" href="assets/css/nivo-lightbox.css">
-    <link rel="stylesheet" href="assets/css/magnific-popup.css">
-    <link rel="stylesheet" href="assets/css/slicknav.css">
-    <link rel="stylesheet" href="assets/css/animate.css">
-    <link rel="stylesheet" href="assets/css/main.css">    
-    <link rel="stylesheet" href="assets/css/responsive.css">
+    <link rel="stylesheet" href="public/assets/css/bootstrap.min.css">
+    <link rel="stylesheet" href="public/assets/css/font-awesome.min.css">
+    <link rel="stylesheet" href="public/assets/css/line-icons.css">
+    <link rel="stylesheet" href="public/assets/css/owl.carousel.css">
+    <link rel="stylesheet" href="public/assets/css/owl.theme.css">
+    <link rel="stylesheet" href="public/assets/css/nivo-lightbox.css">
+    <link rel="stylesheet" href="public/assets/css/magnific-popup.css">
+    <link rel="stylesheet" href="public/assets/css/slicknav.css">
+    <link rel="stylesheet" href="public/assets/css/animate.css">
+    <link rel="stylesheet" href="public/assets/css/main.css">    
+    <link rel="stylesheet" href="public/assets/css/responsive.css">
 
   </head>
   <body>
