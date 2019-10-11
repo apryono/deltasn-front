@@ -1,5 +1,5 @@
 @extends('layouts.master')
-@section('title', 'Home')
+@section('title', 'Delta Solusi Nusantara - ERP Solution for Bussiness')
 @section('content')
     
     <!-- Services Section Start -->
