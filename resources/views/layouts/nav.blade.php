@@ -20,9 +20,6 @@
             <a class="nav-link page-scroll" href="#features">Features</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link page-scroll" href="#portfolios">Works</a>
-          </li>
-          <li class="nav-item">
             <a class="nav-link page-scroll" href="#team">Team</a>
           </li>
           <li class="nav-item">
@@ -44,16 +41,7 @@
           <a class="page-scroll" href="#features">Features</a>
         </li>
         <li>
-          <a class="page-scroll" href="#portfolios">Works</a>
-        </li>
-        <li>
-          <a class="page-scroll" href="#pricing">Pricing</a>
-        </li>
-        <li>
           <a class="page-scroll" href="#team">Team</a>
-        </li>
-        <li >
-          <a class="page-scroll" href="#blog">Blog</a>
         </li>
         <li>
           <a class="page-scroll" href="#contact">Contact</a>

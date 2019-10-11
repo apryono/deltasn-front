@@ -464,9 +464,24 @@ button:focus {
   }
 
   .mocon img{
-    width: 80px;
-    height: 80px;
+    width: 60px;
+    height: 60px;
     border-radius: 50%;
+    float: left;
+    margin-bottom: 20px;
+  }
+
+  .icon-mod img{
+    height: 60px;
+    border-radius: 20%;
+  }
+
+  .icon-mod h4{
+    font-size: 14px;
+    margin-top: 10px;
+    text-transform: capitalize;
+    display: block;
+    color: #2c2c2c;
   }
 
 
@@ -735,7 +750,7 @@ button:focus {
   7. Video promo Style
    ========================================================================== */
 .video-promo {
-  background: #61D2B4;
+  background: #bebebd;
   color: #fff;
   overflow: hidden;
   position: relative;
@@ -945,7 +960,7 @@ button:focus {
  10. Counter Section Style
  ========================================================================== */
 .counters {
-  background: url(../img/counter.jpg) fixed;
+  background: url(../img/testimonial-bg.jpg) fixed;
   position: relative;
 }
 
@@ -979,7 +994,7 @@ button:focus {
 11. Testimonial Section Style
  ========================================================================== */
 #testimonial {
-  background: url(../img/testimonial-bg.jpg) fixed no-repeat;
+  background: url(../img/backg.jpg) fixed no-repeat;
   background-size: cover;
   color: #fff;
   overflow: hidden;

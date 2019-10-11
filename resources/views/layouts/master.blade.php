@@ -8,7 +8,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
     <meta name="author" content="Grayrids">
     <title>@yield('title')</title>
-    <link rel="icon" href="public/assets/img/icon.png" />
+    <link rel="icon" href="public/assets/img/icon2.png" />
 
     <!-- Bootstrap CSS -->
     <link rel="stylesheet" href="public/assets/css/bootstrap.min.css">
