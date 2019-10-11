@@ -20,7 +20,7 @@
             <a class="nav-link page-scroll" href="#features">Features</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link page-scroll" href="#team">Team</a>
+            <a class="nav-link page-scroll" href="#team">Solutions</a>
           </li>
           <li class="nav-item">
             <a class="nav-link page-scroll" href="#contact">Contact</a>
@@ -41,7 +41,7 @@
           <a class="page-scroll" href="#features">Features</a>
         </li>
         <li>
-          <a class="page-scroll" href="#team">Team</a>
+          <a class="page-scroll" href="#team">Solutions</a>
         </li>
         <li>
           <a class="page-scroll" href="#contact">Contact</a>

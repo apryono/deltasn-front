@@ -6,10 +6,10 @@
         <div class="col-lg-6 col-sm-6 col-xs-12">
           <ul class="footer-links">
             <li>
-              <a href="#">Homepage</a>
+              <a href="#hero-area">Homepage</a>
             </li>
             <li>
-              <a href="#">Services</a>
+              <a href="#services">Services</a>
             </li>
             <li>
               <a href="#">About Us</a>
