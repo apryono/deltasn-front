@@ -1,5 +1,5 @@
 @extends('layouts.master')
-@section('title', 'Delta Solusi Nusantara - ERP Solution for Bussiness')
+@section('title', 'PT. Delta Solusi Nusantara - ERP Solution for Bussiness')
 @section('content')
     
     <!-- Services Section Start -->
@@ -260,9 +260,9 @@
                 <div class="contact-us">
                   <h3>Contact With us</h3>
                   <div class="contact-address">
-                    <p>Centerville Road, DE 19808, US </p>
-                    <p class="phone">Phone: <span>(+94 123 456 789)</span></p>
-                    <p class="email">E-mail: <span>(contact@mate.com)</span></p>
+                    <p>Lippo ST. Moritz Tower Floor #09-01, Jl. Puri Raya Blok U1 , Puri Indah Kembangan Selatan - Kembangan </p>
+                    <p class="phone">Phone: <span>(+2 902 0073)</span></p>
+                    <p class="email">E-mail: <span>(sales@dsnudantara.com)</span></p>
                   </div>
                   <div class="social-icons">
                     <ul>
