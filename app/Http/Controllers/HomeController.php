@@ -10,9 +10,4 @@ class HomeController extends Controller
     {
         return view('index');
     }
-
-    public function blog()
-    {
-        return view('data/blog');
-    }
 }
