@@ -261,8 +261,8 @@
                   <h3>Contact With us</h3>
                   <div class="contact-address">
                     <p>Lippo ST. Moritz Tower Floor #09-01, Jl. Puri Raya Blok U1 , Puri Indah Kembangan Selatan - Kembangan </p>
-                    <p class="phone">Phone: <span>(+62 21 2902 0073)</span></p>
-                    <p class="email">E-mail: <span>(sales@dsnudantara.com)</span></p>
+                    <p class="phone">Phone: <span>+62 21 2902 0073</span></p>
+                    <p class="email">E-mail: <span>sales@dsnudantara.com</span></p>
                   </div>
                   <div class="social-icons">
                     <ul>
